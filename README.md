@@ -75,10 +75,5 @@ Este repositorio contiene una serie de **miniproyectos prácticos** desarrollado
 
 ---
 
-## 🧠 Sugerencia pedagógica
-
-Este repositorio puede ser usado tanto para práctica personal como para enseñar modularización y buenas prácticas en funciones Java. Ideal para visualizar paso a paso cómo un programa se puede hacer más legible, mantenible y profesional.
-
----
 
 
