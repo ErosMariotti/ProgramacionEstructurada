@@ -40,10 +40,10 @@ public class FuncionesConRetorno {
      * @return String con el símbolo repetido
      */
     public static String repetirSimbolo(char simbolo, int cantidad) {
-        StringBuilder resultado = new StringBuilder();
+        String resultado = "";
         for (int i = 0; i < cantidad; i++) {
-            resultado.append(simbolo);
+            resultado = resultado + simbolo;
         }
-        return resultado.toString();
+        return resultado;
     }
 }
