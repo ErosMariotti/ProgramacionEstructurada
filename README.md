@@ -2,7 +2,18 @@
 
 # 🧠 Actividad 3 - Funciones y Programación Modular en Java
 
-Este repositorio contiene una serie de **miniproyectos prácticos** desarrollados en Java con NetBeans como parte de la **Actividad 3** del curso de Programación II. Cada proyecto refuerza un concepto clave sobre **funciones**, **reutilización de código**, **modularidad** y **documentación profesional con Javadoc**.
+Este repositorio contiene una colección de **cinco miniproyectos prácticos en Java** desarrollados con NetBeans como parte de la **Actividad 3** del curso de Programación II. Cada miniproyecto fue diseñado para reforzar un concepto clave sobre el uso de **funciones (métodos)**, la **modularización del código**, el uso de **parámetros y retorno**, y la **documentación con Javadoc**.
+
+---
+
+## 📚 Tabla de Contenidos
+
+- [🎉 Parte 1: fiesta_de_dracula](#parte-1-fiesta_de_dracula)
+- [🔁 Parte 2: FuncionesConRetorno](#parte-2-funcionesconretorno)
+- [👤 Parte 3: FuncionesIntro](#parte-3-funcionesintro)
+- [📣 Parte 4: FuncionesSinRetorno](#parte-4-funcionessinretorno)
+- [📚 Parte 5: documentacionAppCalculadora](#parte-5-documentacionappcalculadora)
+- [✅ Conclusión y aprendizajes](#conclusión-y-aprendizajes)
 
 ---
 
