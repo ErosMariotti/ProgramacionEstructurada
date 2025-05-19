@@ -17,7 +17,7 @@ Este repositorio contiene una colección de **cinco miniproyectos prácticos en 
 
 ---
 
-## 🧩 Parte 1: `fiesta_de_dracula` 🦇
+## 🧩 Parte 1 `fiesta_de_dracula` 🦇
 
 **🎯 Objetivo:** Comprender cómo dividir un proceso en pasos reutilizables con funciones sin retorno.
 
