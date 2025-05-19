@@ -8,12 +8,12 @@ Este repositorio contiene una colección de **cinco miniproyectos prácticos en 
 
 ## 📚 Tabla de Contenidos
 
-- [🎉 Parte 1: fiesta_de_dracula](#parte-1-fiesta_de_dracula)
-- [🔁 Parte 2: FuncionesConRetorno](#parte-2-funcionesconretorno)
-- [👤 Parte 3: FuncionesIntro](#parte-3-funcionesintro)
-- [📣 Parte 4: FuncionesSinRetorno](#parte-4-funcionessinretorno)
-- [📚 Parte 5: documentacionAppCalculadora](#parte-5-documentacionappcalculadora)
-- [✅ Conclusión y aprendizajes](#conclusión-y-aprendizajes)
+- [🎉 Parte 1: fiesta_de_dracula](#parte-1-fiesta_de_dracula-)
+- [🔁 Parte 2: FuncionesConRetorno](#parte-2-funcionesconretorno-)
+- [👤 Parte 3: FuncionesIntro](#parte-3-funcionesintro-)
+- [📣 Parte 4: FuncionesSinRetorno](#parte-4-funcionessinretorno-)
+- [📚 Parte 5: documentacionAppCalculadora](#parte-5-documentacionappcalculadora-)
+- [✅ Conclusión y aprendizajes](#-conclusión-y-aprendizajes)
 
 ---
 
